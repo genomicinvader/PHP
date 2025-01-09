@@ -4,6 +4,4 @@ while ($counter <= 10) {
   echo $counter . " " ;
   $counter++;
 }
-
-
 ?>
