@@ -20,4 +20,3 @@ else if($love_php = false){
 else{
   echo "I hate love PHP";
 }
-?>
